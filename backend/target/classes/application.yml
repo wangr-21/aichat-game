@@ -1,0 +1,22 @@
+
+spring:
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
+
+server:
+  port: 8080
+
+knife4j:
+  enable: true
+  openapi:
+    title: 脑筋急转弯api文档
+    group:
+      default:
+        group-name: 默认分组
+        api-rule: package
+        api-rule-resources:
+          - com.wangr.aichat.controller
+
+ai:
+  api-key: 9cf30632-97dd-4409-99cb-305a55636160

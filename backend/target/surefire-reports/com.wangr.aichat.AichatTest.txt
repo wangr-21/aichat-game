@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.wangr.aichat.AichatTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.984 s -- in com.wangr.aichat.AichatTest

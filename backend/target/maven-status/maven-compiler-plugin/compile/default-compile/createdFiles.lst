@@ -1,0 +1,4 @@
+com\wangr\aichat\controller\ChatController.class
+com\wangr\aichat\service\ChatService.class
+com\wangr\aichat\model\ChatRoom.class
+com\wangr\aichat\service\impl\ChatServiceImpl.class
